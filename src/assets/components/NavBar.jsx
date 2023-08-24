@@ -1,4 +1,3 @@
-import { Menu } from '@chakra-ui/react'
 import React from 'react'
 import {
     Menu,
@@ -30,7 +29,7 @@ return (
         </Menu>
     </Box>
     <Spacer />
-    <Box p='4'>
+    <Box p='4' bg= 'yellow'>
         <CartWidget/>
     </Box>
 </Flex>
