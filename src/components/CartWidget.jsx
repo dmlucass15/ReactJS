@@ -11,7 +11,7 @@ return (
             </Box>
             <Divider/>
             <Box>
-                <p>0</p>
+                <p>2</p>
             </Box>
         </Flex>
     </div>
