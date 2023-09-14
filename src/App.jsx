@@ -20,8 +20,7 @@ const App = () => {
     <Route exact path= '/item/:id'  element= {<ItemDetailContainer/>} />
 </Routes>
 
-<ItemListConteiner greeting = {"Bienvenidos al Sitio WEB Fitness Lucas"} />
-<ItemDetailContainer/> 
+
 
 </BrowserRouter>
 </>
